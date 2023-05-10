@@ -18,3 +18,5 @@ Then run flutter run command from example directory
 Requirements : python3
 
 Note : This script is tested with MacOS and python3 with popular flutter packages. 
+
+<img src="terminal.png" width="250"/>
