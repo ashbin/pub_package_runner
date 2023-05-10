@@ -19,4 +19,4 @@ Requirements : python3
 
 Note : This script is tested with MacOS and python3 with popular flutter packages. 
 
-<img src="terminal.png" width="250"/>
+<img src="terminal.png"/>
